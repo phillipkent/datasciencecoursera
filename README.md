@@ -1,2 +1,6 @@
 # datasciencecoursera
-Repo for Coursera Data Science course
+
+Repo for the Coursera Data Scientist's Toolbox course:
+
+https://www.coursera.org/course/datascitoolbox
+
